@@ -6,18 +6,12 @@
 
 </div>
 
-## 📽 Preview
-
-
-https://user-images.githubusercontent.com/40385118/168847335-b9cf0cea-e742-48a6-bfd9-7897fa50dc91.mp4
-
 
 
 ## 📑 About
 > Always-quiz is the quiz app with the different categories
 ## 🛠 Technologies used
 - ReactJS
-- [Always-UI](https://always-ui.netlify.app/) component library
 - React Router
 - TypeScript
 - Jest
@@ -49,6 +43,5 @@ npm start
 With that you can see your app running on `localhost:3000`
 
 ## 👨‍💻 Connect with me 
-
-<a href="https://twitter.com/SanketDhabarde1"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/sanket-dhabarde-91b028166/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/adityasharan01"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aditya-sharan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
